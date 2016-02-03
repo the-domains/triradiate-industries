@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0D0D0'
+    - '#700000'
+    - '#808088'
+    - '#D00000'
+    - '#000000'
+  brandStrength: 0.793918
+  lightness: 0.794763
+  rhythmicContrast: 0.706925
+  saturation: 0.643581
+cta: {}
+layout_spectrum: 0.740709
+name: triradiate
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.924831
