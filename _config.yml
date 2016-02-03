@@ -1,4 +1,20 @@
-analytics: {}
+name: triradiate
+favicon: null
+layout_spectrum: 0.740709
+typography_spectrum: 0.924831
+title: Triradiate Industries
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#D0D0D0'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.793918
   lightness: 0.794763
-  rhythmicContrast: 0.706925
   saturation: 0.643581
-cta: {}
-layout_spectrum: 0.740709
-name: triradiate
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.924831
+  rhythmicContrast: 0.706925
+purpose:
+  - name: null
+    item: null
+    url: null
