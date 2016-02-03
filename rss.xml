@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Triradiate Industries]]></title>
         <description><![CDATA[Triradiate Industries]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/triradiate-industries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 20:43:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 23:16:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/triradiate-industries/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d59e8920-38ed-45d6-97bc-a6757b9e116d.png">]]></description>
+            <link>https://thegrid.ai/triradiate-industries/b43409a9-d4fe-4b9e-b8e3-1fae0e70a75f/index.html</link>
+            <guid isPermaLink="false">b43409a9-d4fe-4b9e-b8e3-1fae0e70a75f</guid>
+            <pubDate>Wed, 03 Feb 2016 23:16:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4eb542f-223b-4890-a8ca-48552e650cad.png">]]></description>
-            <link>undefineda94f8869-8c21-456a-a2ef-c6a71b832102/index.html</link>
+            <link>https://thegrid.ai/triradiate-industries/a94f8869-8c21-456a-a2ef-c6a71b832102/index.html</link>
             <guid isPermaLink="false">a94f8869-8c21-456a-a2ef-c6a71b832102</guid>
             <pubDate>Wed, 03 Feb 2016 20:42:26 GMT</pubDate>
         </item>
