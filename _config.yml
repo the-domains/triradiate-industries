@@ -6,14 +6,14 @@ color:
     - '#808088'
     - '#D00000'
     - '#000000'
-  brandStrength: 0.793918
-  lightness: 0.794763
-  rhythmicContrast: 0.706925
-  saturation: 0.643581
+  brandStrength: 1
+  lightness: 0.710304
+  rhythmicContrast: 0.358108
+  saturation: 0.255912
 cta: {}
-layout_spectrum: 0.252533
+layout_spectrum: 0.733952
 name: Triradiate
 opengraph: {}
 purpose:
   - {}
-typography_spectrum: 0.924831
+typography_spectrum: 0.80152
