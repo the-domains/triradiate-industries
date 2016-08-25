@@ -1,4 +1,19 @@
-analytics: {}
+name: Triradiate
+favicon: null
+layout_spectrum: 0.239864
+typography_spectrum: 0.80152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -6,14 +21,8 @@ color:
     - '#DB0505'
     - '#070000'
     - '#333437'
-  brandStrength: 0.5
+  brandStrength: 0.9375
   lightness: 0.9375
-  rhythmicContrast: 0
-  saturation: 0.255912
-cta: {}
-layout_spectrum: 0.239864
-name: Triradiate
-opengraph: {}
-purpose:
-  - {}
-typography_spectrum: 0.80152
+  saturation: 0.5
+  rhythmicContrast: 0.75
+purpose: []
