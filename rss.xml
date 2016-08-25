@@ -4,21 +4,28 @@
         <description><![CDATA[Triradiate]]></description>
         <link>https://thegrid.ai/triradiate-industries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 13:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 09:23:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/triradiate-industries/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e21dba4e5946f5c2934b63b9c8fb6139b37a4701.png" alt="Triradiate Industries">]]></description>
+            <link>https://thegrid.ai/triradiate-industries/a94f8869-8c21-456a-a2ef-c6a71b832102/index.html</link>
+            <guid isPermaLink="false">a94f8869-8c21-456a-a2ef-c6a71b832102</guid>
+            <pubDate>Thu, 25 Aug 2016 09:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Triradiate A.I.R. Vessel Tracking]]></title>
+            <description><![CDATA[<article><h1>Triradiate A.I.R. Vessel Tracking</h1><p>Triradiate Vessel and Bone Segmentation - through the application of both tradiational and machine learning algorithms, Triradiate A.I.R. provides unparalleled fidelity in vascular segmentation throughout all phases of contrast. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba76dfb0-1005-43c9-8176-c96c95017539.png"></article>]]></description>
+            <link>https://thegrid.ai/triradiate-industries/triradiate-air-vessel-tracking/index.html</link>
+            <guid isPermaLink="false">f8f8c5c8-47ef-40f0-885b-c9cdd61e876a</guid>
+            <pubDate>Thu, 25 Aug 2016 09:12:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Triradiate Industries ]]></title>
             <description><![CDATA[<article><h1>Triradiate Industries </h1><p>Imaging intelligence for medicine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7499baae4becc3ecb9e925f59c8a3c6db2bddd9.png"></article>]]></description>
             <link>https://thegrid.ai/triradiate-industries/b43409a9-d4fe-4b9e-b8e3-1fae0e70a75f/index.html</link>
             <guid isPermaLink="false">b43409a9-d4fe-4b9e-b8e3-1fae0e70a75f</guid>
             <pubDate>Mon, 30 May 2016 13:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ccfcb5756748a4c6df66a6fc31ea384c8ff1ebc.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/triradiate-industries/a94f8869-8c21-456a-a2ef-c6a71b832102/index.html</link>
-            <guid isPermaLink="false">a94f8869-8c21-456a-a2ef-c6a71b832102</guid>
-            <pubDate>Thu, 04 Feb 2016 21:04:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
